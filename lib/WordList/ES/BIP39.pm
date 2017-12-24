@@ -1,4 +1,4 @@
-package WordList::JA::BIP39;
+package WordList::ES::BIP39;
 
 # DATE
 # VERSION
